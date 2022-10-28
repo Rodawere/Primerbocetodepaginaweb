@@ -1,0 +1,32 @@
+
+h1{
+    color: blueviolet;
+    text-decoration: underline;
+    text-align: center;
+}
+
+section h2{
+    color:blue
+}
+
+.section_titulo{
+    color:green
+}
+
+.nav-modificada ul li a{
+    color:  rgb(127, 40, 9);
+    text-decoration: none;
+    text-align: right;
+    }
+
+ul{
+    list-style: none;
+}
+
+nav {
+    background-color: rgb(26, 162, 121, 0.7);
+}
+.body{
+    background-color: blue;
+}
+
